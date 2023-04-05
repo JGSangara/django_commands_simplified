@@ -26,5 +26,5 @@ setup(
         simplified versions of common Django commands for managing your Django
         projects. With this tool, you can easily start the development server
         and run migrations without having to remember the full commands""",
-    url="https://github.com/your-username/my-command-line-tool",
+    url="https://github.com/JGSangara/django_commands_simplified",
 )
